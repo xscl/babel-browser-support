@@ -2,7 +2,7 @@
 
 > 我不写代码，我只是代码搬运工
 
-babel为单独发布浏览器环境polyfill和external-helpers，每次babel升级都从babel-core copy出来好烦，因此就有个这个。
+babel未单独发布浏览器环境polyfill和external-helpers，每次babel升级都从babel-core copy出来好烦，因此就有个这个。
 
 ## 主要内容
 
